@@ -1,0 +1,12 @@
+.cache/
+.docs/
+.docz/
+.env*
+!.env.example
+.idea/
+.DS_Store
+dist/
+node_modules/
+stats.json
+.vscode/
+package-lock.json
